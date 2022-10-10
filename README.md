@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakiRinn&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakiRinn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SakiRinn/SakiRinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
